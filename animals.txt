@@ -1,5 +1,7 @@
-M Muskrat
+M Mole          
 N Newt
+HEAD
 O Onagir        
+O Ocelot
 P Panda
 T Tapir
